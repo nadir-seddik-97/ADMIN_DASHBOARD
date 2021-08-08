@@ -1,4 +1,4 @@
 FIRST 
-NPM INSTALL
-SECONDE
-NPM START
+npm install
+THEN
+npm start
